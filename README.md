@@ -10,17 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant">
-      Demo
-    </a>
+    <a href="http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant">Demo</a>
     <span> | </span>
-    <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant">
-      Solution
-    </a>
+    <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant">Solution</a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
-      Challenge
-    </a>
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">Challenge</a>
   </h3>
 </div>
 
@@ -61,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [marvinrusinek.com](http://www.marvinrusinek.com)
-- GitHub [@marvinrusinek](https://github.com/marvinrusinek})
-- Twitter [@marvinrusinek](https://twitter.com/marvinrusinek)
+- GitHub [@marvinrusinek](https://www.github.com/marvinrusinek)
+- Twitter [@marvinrusinek](https://www.twitter.com/marvinrusinek)
