@@ -50,7 +50,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+This webpage was created as a submission to a [DevChallenges](https://www.devchallenges.io/challenges) challenge. The [challenge](https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the given user stories.
 
 ## Contact
 
