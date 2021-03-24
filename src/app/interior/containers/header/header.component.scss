@@ -1,6 +1,8 @@
+@import "../../styles/variables";
+
 header {
   display: block;
-  background-color: #181719;
+  background-color: $black;
   margin-top: -30px;
 
   .logo {
@@ -12,16 +14,16 @@ header {
     height: 32px;
     position: absolute;
     top: 42px;
-    color: #ffffff;
+    color: $white;
     text-align: center;
     text-transform: uppercase;
-    border: 1px solid #ffffff;
+    border: 1px solid $white;
     margin-left: -10px;
     padding: 5px;
   }
 
   nav {
-    background-color: #181719 !important;
+    background-color: $black !important;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,27 +35,31 @@ header {
       display: none;
     }
 
+    button {
+      margin-top: 30px;
+    }
+
     .nav-menu {
-      display: inline-block;
+      display: flex;
+      justify-content: right !important;
       float: right;
+      margin-left: 300px;
       top: 42px;
-      left: 400px;
 
       ul {
         display: flex;
         justify-content: space-between;
         list-style-type: none;
-        flex: 0.4;
 
         li {
-          padding-right: 90px;
+          padding-right: 60px;
           font-family: "Montserrat", sans-serif;
           font-size: 18px;
           font-weight: 500;
-          color: #ffffff;
+          color: $white;
 
           a {
-            color: #ffffff;
+            color: $white;
             cursor: pointer;
             text-decoration: none;
           }

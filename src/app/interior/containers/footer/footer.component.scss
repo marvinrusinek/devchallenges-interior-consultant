@@ -1,3 +1,5 @@
+@import "../../styles/variables";
+
 footer {
   margin-top: 150px;
 
@@ -6,12 +8,12 @@ footer {
     font-size: 14px;
     font-weight: 600;
     text-align: center;
-    color: #a9a9a9;
+    color: $light-gray;
     padding-bottom: 30px;
 
     a {
       text-decoration: none;
-      color: #a9a9a9;
+      color: $light-gray;
     }
   }
 }

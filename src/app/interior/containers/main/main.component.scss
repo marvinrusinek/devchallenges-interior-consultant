@@ -1,3 +1,5 @@
+@import '../../styles/variables';
+
 main {
   display: block;
   width: 100%;
@@ -49,7 +51,7 @@ main {
     position: relative;
     top: 100px;
     left: 60px;
-    background-color: #181719;
+    background-color: $black;
 
     .inset-photo {
       float: left;
@@ -72,7 +74,7 @@ main {
       span {
         display: inline-block;
         font-size: 12px;
-        color: #828282;
+        color: $dark-gray;
       }
     }
 
