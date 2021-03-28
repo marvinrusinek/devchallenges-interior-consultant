@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://marvinrusinek.github.io/devchallenges-interior-consultant">Demo</a>
+    <a href="https://marvinrusinek.github.io/devchallenges-interior-consultant" target="_blank">Demo</a>
     <span> | </span>
-    <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant">Solution</a>
+    <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant" target="_blank">Solution</a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">Challenge</a>
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb" target="_blank">Challenge</a>
   </h3>
 </div>
 
@@ -32,7 +32,7 @@
 
 - Live demo can be found here: https://marvinrusinek.github.io/devchallenges-interior-consultant
 - The webpage was relatively easy to develop using Angular framework; adding routing made it more challenging.
-- I learned how to create a collapsable navbar with Bootstrap.
+- I learned how to create a collapsable navbar with Bootstrap and how to deploy an app to GitHub Pages.
 
 ### Built With
 - Angular (https://www.angular.io/)
