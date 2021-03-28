@@ -16,14 +16,12 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
-- [Overview] (#overview)
-  - [Built With] (#built-with)
-- [Features] (#features)
-- [Contact] (#contact)
+- Overview
+  - Built With
+- Features
+- Contact
 
 <!-- OVERVIEW -->
 
@@ -35,7 +33,7 @@ Screenshot:
 - Live demo can be found here: http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant
 - The webpage was relatively easy to develop using Angular framework; adding routing made it more challenging.
 - I learned how to create a collapsable navbar with Bootstrap.
-- 
+
 ### Built With
 - Angular (https://www.angular.io/)
 - Bootstrap (https://www.getbootstrap.com/)
