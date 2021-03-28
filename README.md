@@ -35,8 +35,8 @@
 - I learned how to create a collapsable navbar with Bootstrap and how to deploy an app to GitHub Pages.
 
 ### Built With
-- Angular (https://www.angular.io/){:target="_blank" rel="noopener"}
-- Bootstrap (https://www.getbootstrap.com/){:target="_blank" rel="noopener"}
+- Angular (https://www.angular.io/)
+- Bootstrap (https://www.getbootstrap.com/)
 
 ## Features
 This webpage was created as a submission to a DevChallenges (https://www.devchallenges.io/challenges) challenge. The challenge (https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the following user stories:
@@ -48,4 +48,4 @@ This webpage was created as a submission to a DevChallenges (https://www.devchal
 ## Contact
 - Website [marvinrusinek.com] (http://www.marvinrusinek.com)
 - GitHub [@marvinrusinek] (https://www.github.com/marvinrusinek)
-- Twitter [@marvinrusinek] (https://www.twitter.com/marvinrusinek{:target="_blank"})
+- Twitter [@marvinrusinek] (https://www.twitter.com/marvinrusinek)
