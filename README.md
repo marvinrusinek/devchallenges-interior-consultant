@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant">Demo</a>
+    <a href="https://marvinrusinek.github.io/devchallenges-interior-consultant">Demo</a>
     <span> | </span>
     <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant">Solution</a>
     <span> | </span>
@@ -30,7 +30,7 @@
 <b>Screenshot:</b> 
 <img src="http://www.marvinrusinek.com/portfolio-projects/interior-consultant-screenshot.png" align="center">
 
-- Live demo can be found here: http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant
+- Live demo can be found here: https://marvinrusinek.github.io/devchallenges-interior-consultant
 - The webpage was relatively easy to develop using Angular framework; adding routing made it more challenging.
 - I learned how to create a collapsable navbar with Bootstrap.
 
