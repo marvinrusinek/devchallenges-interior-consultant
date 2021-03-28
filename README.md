@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot](http://www.marvinrusinek.com/portfolio-projects/interior consultant screenshot.png)
+Screenshot: http://www.marvinrusinek.com/portfolio-projects/interior-consultant-screenshot.png
 
 - Live demo can be found here: http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant
 - The webpage was relatively easy to develop using Angular framework; adding routing made it more challenging.
