@@ -39,14 +39,14 @@
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-- [Angular] (https://www.angular.io/)
-- [Bootstrap] (https://www.getbootstrap.com/)
+- Angular (https://www.angular.io/)
+- Bootstrap (https://www.getbootstrap.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This webpage was created as a submission to a [DevChallenges](https://www.devchallenges.io/challenges) challenge. The [challenge](https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the given user stories.
+This webpage was created as a submission to a [DevChallenges] (https://www.devchallenges.io/challenges) challenge. The [challenge](https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the given user stories.
 
 ## Contact
 
