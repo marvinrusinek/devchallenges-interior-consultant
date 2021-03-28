@@ -46,6 +46,6 @@ This webpage was created as a submission to a DevChallenges (https://www.devchal
 - <b>User story:</b> On mobile, when I select the hamburger menu, I can see a navigation
 
 ## Contact
-- Website [marvinrusinek.com] [(http://www.marvinrusinek.com)]{:target="_blank" rel="noopener"}
-- GitHub [@marvinrusinek] [(https://www.github.com/marvinrusinek)]{:target="_blank" rel="noopener"}
-- Twitter [@marvinrusinek] [(https://www.twitter.com/marvinrusinek)]{:target="_blank" rel="noopener"}
+- Website [marvinrusinek.com] [(http://www.marvinrusinek.com){:target="_blank" rel="noopener"}]
+- GitHub [@marvinrusinek] [(https://www.github.com/marvinrusinek){:target="_blank" rel="noopener"}]
+- Twitter [@marvinrusinek] [(https://www.twitter.com/marvinrusinek){:target="_blank" rel="noopener"}]
