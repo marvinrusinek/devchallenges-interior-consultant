@@ -29,16 +29,14 @@
 
 ## Overview
 
-Screenshot: http://www.marvinrusinek.com/portfolio-projects/interior-consultant-screenshot.png
+Screenshot: 
+<img src="http://www.marvinrusinek.com/portfolio-projects/interior-consultant-screenshot.png" align="center">
 
 - Live demo can be found here: http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant
 - The webpage was relatively easy to develop using Angular framework; adding routing made it more challenging.
 - I learned how to create a collapsable navbar with Bootstrap.
-- Your wisdom? :)
-
+- 
 ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 - Angular (https://www.angular.io/)
 - Bootstrap (https://www.getbootstrap.com/)
 
@@ -46,7 +44,11 @@ Screenshot: http://www.marvinrusinek.com/portfolio-projects/interior-consultant-
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This webpage was created as a submission to a [DevChallenges] (https://www.devchallenges.io/challenges) challenge. The [challenge](https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the given user stories.
+This webpage was created as a submission to a [DevChallenges] (https://www.devchallenges.io/challenges) challenge. The [challenge](https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the following user stories:
+
+- User story: I can see a page following the given design
+- User story: On mobile, I can see a collapsed navigation
+- User story: On mobile, when I select the hamburger menu, I can see a navigation
 
 ## Contact
 
