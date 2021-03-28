@@ -32,7 +32,7 @@
 
 - Live demo can be found here: https://devchallenges-interior-consultant-brown.vercel.app/
 - The webpage was relatively easy to develop using Angular framework; adding routing made it more challenging.
-- I learned how to create a collapsable navbar with Bootstrap and how to deploy an app to GitHub Pages.
+- I learned how to create a collapsable navbar with Bootstrap and how to deploy an Angular app to Vercel.
 
 ### Built With
 - Angular (https://www.angular.io/)
