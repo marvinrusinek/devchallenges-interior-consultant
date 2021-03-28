@@ -27,7 +27,7 @@
 
 ## Overview
 
-Screenshot: 
+<b>Screenshot:</b> 
 <img src="http://www.marvinrusinek.com/portfolio-projects/interior-consultant-screenshot.png" align="center">
 
 - Live demo can be found here: http://www.marvinrusinek.com/portfolio-projects/devchallenges-interior-consultant
@@ -39,17 +39,13 @@ Screenshot:
 - Bootstrap (https://www.getbootstrap.com/)
 
 ## Features
+This webpage was created as a submission to a DevChallenges (https://www.devchallenges.io/challenges) challenge. The challenge (https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the following user stories:
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This webpage was created as a submission to a [DevChallenges] (https://www.devchallenges.io/challenges) challenge. The [challenge](https://www.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build a webpage that satisfies the following user stories:
-
-- User story: I can see a page following the given design
-- User story: On mobile, I can see a collapsed navigation
-- User story: On mobile, when I select the hamburger menu, I can see a navigation
+- <b>User story:</b> I can see a page following the given design
+- <b>User story:</b> On mobile, I can see a collapsed navigation
+- <b>User story:</b> On mobile, when I select the hamburger menu, I can see a navigation
 
 ## Contact
-
 - Website [marvinrusinek.com] (http://www.marvinrusinek.com)
 - GitHub [@marvinrusinek] (https://www.github.com/marvinrusinek)
 - Twitter [@marvinrusinek] (https://www.twitter.com/marvinrusinek)
