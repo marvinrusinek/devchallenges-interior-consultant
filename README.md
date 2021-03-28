@@ -3,16 +3,16 @@
 <h1 align="center">Interior Consultant</h1>
 
 <div align="center">
-   Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from <a href="http://devchallenges.io">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://marvinrusinek.github.io/devchallenges-interior-consultant" target="_blank">Demo</a>
+    <a href="https://marvinrusinek.github.io/devchallenges-interior-consultant">Demo</a>
     <span> | </span>
-    <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant" target="_blank">Solution</a>
+    <a href="https://www.github.com/marvinrusinek/devchallenges-interior-consultant">Solution</a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb" target="_blank">Challenge</a>
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">Challenge</a>
   </h3>
 </div>
 
